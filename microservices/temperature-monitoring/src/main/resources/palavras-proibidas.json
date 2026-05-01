@@ -1,0 +1,24 @@
+[
+  { "text": "negão", "commentId": "racismo" },
+  { "text": "negona", "commentId": "racismo" },
+  { "text": "branquelo", "commentId": "racismo" },
+  { "text": "branquela", "commentId": "racismo" },
+
+  { "text": "viado", "commentId": "homofobia" },
+  { "text": "viadinho", "commentId": "homofobia" },
+
+  { "text": "biscate", "commentId": "machismo" },
+  { "text": "vadia", "commentId": "machismo" },
+  { "text": "vagabunda", "commentId": "machismo" },
+
+  { "text": "vai tomar no cú", "commentId": "ódio geral" },
+  { "text": "seu arrombado", "commentId": "ódio geral" },
+  { "text": "desgraçado", "commentId": "ódio geral" },
+  { "text": "filho da puta", "commentId": "ódio geral" },
+  { "text": "lixo humano", "commentId": "ódio geral" },
+
+  { "text": "idiota", "commentId": "xingamento" },
+  { "text": "imbecil", "commentId": "xingamento" },
+  { "text": "otário", "commentId": "xingamento" },
+  { "text": "babaca", "commentId": "xingamento" }
+]
